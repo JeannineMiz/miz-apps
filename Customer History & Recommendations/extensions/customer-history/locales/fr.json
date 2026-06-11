@@ -1,0 +1,19 @@
+{
+  "name": "customer-history",
+  "tile_heading": "Données client",
+  "tile_subheading": "Voir les détails du client",
+  "modal_heading": "Données client",
+  "no_customer": "Aucun client associé au panier",
+  "loading": "Chargement des données client...",
+  "error": "Échec du chargement des données client",
+  "acquired": "Acquis",
+  "recency": "Récence",
+  "frequency": "Fréquence",
+  "value": "Valeur",
+  "opt_out": "Désinscription",
+  "birthday": "Anniversaire",
+  "note": "Note",
+  "yes": "Oui",
+  "no": "Non",
+  "not_available": "N/D"
+}

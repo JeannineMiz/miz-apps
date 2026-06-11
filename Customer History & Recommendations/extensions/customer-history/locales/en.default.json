@@ -1,0 +1,19 @@
+{
+  "name": "customer-history",
+  "tile_heading": "Customer Data",
+  "tile_subheading": "View customer details",
+  "modal_heading": "Customer Data",
+  "no_customer": "No customer attached to cart",
+  "loading": "Loading customer data...",
+  "error": "Failed to load customer data",
+  "acquired": "Acquired",
+  "recency": "Recency",
+  "frequency": "Frequency",
+  "value": "Value",
+  "opt_out": "Opt Out",
+  "birthday": "Birthday",
+  "note": "Note",
+  "yes": "Yes",
+  "no": "No",
+  "not_available": "N/A"
+}
